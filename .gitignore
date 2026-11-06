@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Outputs and caches
+src/results/
+src/results2/
+matlab/data_raw/
+matlab/figures/
+
+# MATLAB
+*.asv
+
+# OS
+.DS_Store
+Thumbs.db

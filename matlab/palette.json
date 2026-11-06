@@ -1,0 +1,112 @@
+{
+ "nr": {
+  "label": "NR-BD-RIS (proposed)",
+  "color": [
+   0.0,
+   0.447,
+   0.698
+  ],
+  "marker": "o",
+  "line": "-",
+  "proposed": true
+ },
+ "r": {
+  "label": "R-BD-RIS",
+  "color": [
+   0.835,
+   0.369,
+   0.0
+  ],
+  "marker": "s",
+  "line": "--"
+ },
+ "d": {
+  "label": "D-RIS",
+  "color": [
+   0.0,
+   0.62,
+   0.451
+  ],
+  "marker": "d",
+  "line": "-."
+ },
+ "th": {
+  "color": [
+   0.35,
+   0.35,
+   0.35
+  ],
+  "marker": "none",
+  "line": ":"
+ },
+ "net": {
+  "label": "CoreNet",
+  "color": [
+   0.482,
+   0.196,
+   0.58
+  ],
+  "marker": "^",
+  "line": ":"
+ },
+ "nsdp": {
+  "label": "CoreNet+SDP",
+  "color": [
+   0.8,
+   0.475,
+   0.655
+  ],
+  "marker": "v",
+  "line": "--"
+ },
+ "nao": {
+  "label": "CoreNet+AO",
+  "color": [
+   0.902,
+   0.624,
+   0.0
+  ],
+  "marker": "p",
+  "line": "-."
+ },
+ "full": {
+  "label": "NR full space MM",
+  "color": [
+   0.337,
+   0.706,
+   0.914
+  ],
+  "marker": ">",
+  "line": "--"
+ },
+ "cf": {
+  "label": "R-BD-RIS, clutter unaware",
+  "color": [
+   0.2,
+   0.2,
+   0.2
+  ],
+  "marker": "x",
+  "line": ":"
+ },
+ "proj": {
+  "label": "R-BD-RIS, symmetric projection",
+  "color": [
+   0.6,
+   0.4,
+   0.2
+  ],
+  "marker": "+",
+  "line": ":"
+ },
+ "mo": {
+  "label": "R-BD-RIS, manifold opt.",
+  "color": [
+   0.0,
+   0.5,
+   0.5
+  ],
+  "marker": "*",
+  "line": ":"
+ }
+}
