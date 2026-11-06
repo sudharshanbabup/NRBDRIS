@@ -2,7 +2,6 @@
 
 Simulation and optimization code for the paper:
 > **Nonreciprocal Beyond Diagonal RIS for Monostatic ISAC: Gain Laws, Contraction Core Optimization, and Size Agnostic Learning**  
-> *Pandava Sudharshan Babu and Purushottama Rao K*
 
 ---
 
